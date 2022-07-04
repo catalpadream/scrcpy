@@ -6,7 +6,7 @@ _pronounced "**scr**een **c**o**py**"_
 
 [Read in another language](#translations)
 
-手机控制电脑工具-具体使用请百度
+手机无线投屏到电脑工具-具体使用请百度
 
 This application provides display and control of Android devices connected via
 USB or [over TCP/IP](#tcpip-wireless). It does not require any _root_ access.
